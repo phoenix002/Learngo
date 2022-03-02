@@ -1,7 +1,7 @@
 //package  hello //go run: cannot run non-main package
 //package adddemo //go run: cannot run non-main package
 
-
+// test
 package main
 import (
 	"adddemo/modules"
